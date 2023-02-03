@@ -1,5 +1,5 @@
-# Actividad de familiarización con git y github.
+# Familiarization activity with git and github.
 
-En este proyecto se busca familiarizarse
-con Git y Github.
+This project aims to familiarize
+with Git and Github.
 
